@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootbox": "^5.5.3",
+    "font-awesome": "^4.7.0",
+    "micromodal": "^0.4.10",
+    "sweetalert2": "^11.4.29"
+  }
 }
